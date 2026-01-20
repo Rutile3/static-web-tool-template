@@ -6,6 +6,12 @@
     background: var(--brand);
 }
 
+.avatar {
+    width: 32px;
+    height: 32px;
+    object-fit: cover;
+}
+
 body {
     background: #efefef;
 }
